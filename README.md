@@ -15,11 +15,11 @@ Essa é uma Landing Page feita de um tutorial do Youtube do canal
 ## Visão Geral
 
 ### Screenshot
-[Home](https://github.com/MarcoAntonioMatos/landing-page/blob/main/files/Captura%20de%20tela%202023-09-16%20110939.png)
+[Home](https://github.com/MarcoAntonioMatos/landing-page/blob/main/files/Captura%20de%20tela%202023-09-16%20110939.png) <br/> 
 
-[First section](https://github.com/MarcoAntonioMatos/landing-page/blob/main/files/Captura%20de%20tela%202023-09-16%20111011.png)
+[First section](https://github.com/MarcoAntonioMatos/landing-page/blob/main/files/Captura%20de%20tela%202023-09-16%20111011.png) <br/> 
 
-[Third section](https://github.com/MarcoAntonioMatos/landing-page/blob/main/files/Captura%20de%20tela%202023-09-16%20111024.png)
+[Third section](https://github.com/MarcoAntonioMatos/landing-page/blob/main/files/Captura%20de%20tela%202023-09-16%20111024.png) <br/> 
 
 ### Links
 
