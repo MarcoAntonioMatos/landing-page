@@ -16,7 +16,9 @@ Essa é uma Landing Page feita de um tutorial do Youtube do canal
 
 ### Screenshot
 
-[Screenshot](https://github.com/MarcoAntonioMatos/desafio_qr_code/blob/main/images/marcoantoniomatos.github.io_desafio_qr_code_.png)
+[Home](files/Captura de tela 2023-09-16 110939.png)
+[First section](files/Captura de tela 2023-09-16 111011.png)
+[Third section](files/Captura de tela 2023-09-16 111024.png)
 
 ### Links
 
