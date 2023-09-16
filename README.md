@@ -15,10 +15,9 @@ Essa é uma Landing Page feita de um tutorial do Youtube do canal
 ## Visão Geral
 
 ### Screenshot
-
-[Home](files/Captura de tela 2023-09-16 110939.png)
-[First section](files/Captura de tela 2023-09-16 111011.png)
-[Third section](files/Captura de tela 2023-09-16 111024.png)
+[Home](https://github.com/MarcoAntonioMatos/landing-page/blob/main/files/Captura%20de%20tela%202023-09-16%20110939.png)
+[First section](https://github.com/MarcoAntonioMatos/landing-page/blob/main/files/Captura%20de%20tela%202023-09-16%20111011.png)
+[Third section](https://github.com/MarcoAntonioMatos/landing-page/blob/main/files/Captura%20de%20tela%202023-09-16%20111024.png)
 
 ### Links
 
